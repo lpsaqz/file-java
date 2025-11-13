@@ -1,4 +1,4 @@
-<h1>File processing in Java</h1>
+<h1>Process a file in Java</h1>
  
 <h2>Description</h2>
 A Java project to read a text file and execute a database update, for each line.
